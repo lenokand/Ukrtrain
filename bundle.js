@@ -1,0 +1,1 @@
+(()=>{var e,t,s,n;e=document.getElementById("toggle-menu"),t=document.body,s=document.getElementById("close-menu"),n=document.getElementById("menu"),e.addEventListener("click",(function(){t.classList.add("show"),n.classList.add("show")})),s.addEventListener("click",(function(){t.classList.remove("show"),n.classList.remove("show")}))})();
